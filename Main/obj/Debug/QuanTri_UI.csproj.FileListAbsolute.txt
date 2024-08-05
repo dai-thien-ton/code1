@@ -1,0 +1,17 @@
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\bin\Debug\QuanTri_UI.exe.config
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\bin\Debug\QuanTri_UI.exe
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\bin\Debug\QuanTri_UI.pdb
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\bin\Debug\Server.exe
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\bin\Debug\WindowsFormsApp1.exe
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\bin\Debug\Server.pdb
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\bin\Debug\Server.exe.config
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\bin\Debug\WindowsFormsApp1.pdb
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\bin\Debug\WindowsFormsApp1.exe.config
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\obj\Debug\QuanTri_UI.csproj.AssemblyReference.cache
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\obj\Debug\QuanTri_UI.Form1.resources
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\obj\Debug\QuanTri_UI.Properties.Resources.resources
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\obj\Debug\QuanTri_UI.csproj.GenerateResource.cache
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\obj\Debug\QuanTri_UI.csproj.CoreCompileInputs.cache
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\obj\Debug\QuanTri_UI.csproj.Up2Date
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\obj\Debug\QuanTri_UI.exe
+G:\VS Studio\source\cloud\multichat01\QuanTri_UI\obj\Debug\QuanTri_UI.pdb
